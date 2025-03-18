@@ -23,3 +23,14 @@ yarn-error.log
 /.zed
 
 
+# Laravel
+/vendor/
+/node_modules/
+/public/storage
+/storage/*.key
+.env
+.env.*
+.idea/
+/composer.lock
+*.log
+
